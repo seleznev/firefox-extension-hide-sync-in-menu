@@ -7,7 +7,7 @@
     <em:id>{c87e6b74-b06b-4e33-ac29-6aa457ae539d}</em:id>
     <em:type>2</em:type>
     <em:name>Hide Sync in Menu</em:name>
-    <em:version>0.9</em:version>
+    <em:version>0.9.1</em:version>
     <em:description>Hide "Sign in to Sync" button in the menu.</em:description>
     <em:homepageURL>https://github.com/seleznev/firefox-extension-hide-sync-in-menu</em:homepageURL>
     <em:creator>Alexander Seleznev</em:creator>
