@@ -6,8 +6,9 @@
 
 @-moz-document url("chrome://browser/content/browser.xul") {
 
+#PanelUI-footer-fxa, /* Fx 41+ */
 #PanelUI-fxa-status {
-  display: none;
+  display: none !important;
 }
 
 }
